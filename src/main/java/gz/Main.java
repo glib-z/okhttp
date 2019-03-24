@@ -2,7 +2,6 @@ package gz;
 
 import com.google.gson.Gson;
 import gz.utils.CurrCodeData;
-
 import java.util.Scanner;
 
 public class Main {
