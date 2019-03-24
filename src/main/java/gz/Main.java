@@ -12,7 +12,6 @@ public class Main {
     public static void main(String[] args) {
 
         final String URL = "https://api.privatbank.ua/p24api/exchange_rates?json=true&date=";
-        //final String URL = "https://api.privatbank.ua/p24api/exchange_rate=true&date=";
 
         Scanner scanner = new Scanner(System.in);
         String date;
